@@ -1,5 +1,9 @@
 # a1111-sd-webui-locon
 
+Hello, if anyone found this, I don't have any idea of wtf i am doing, i just reverting the last locon script to the previous version, since the latest update (21/05) broke all LORAs I had. I beg forgiveness from the author and the guy that update it, since I honestly have no idea of what a fork even is.
+
+But it works. Somehow.
+
 An extension for loading lycoris model in sd-webui. (include locon and loha)
 
 # THIS EXTENSION IS NOT FOR ADDITIONAL NETWORK
